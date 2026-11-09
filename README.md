@@ -1,0 +1,1 @@
+Bu java kod dizisinde 20 soruluk bir deneme sınavında kişinin girdiği yanlış ve doğru sayılarını inceler,net hesaplamasını yapar ve eğer sayıların herhangi birisi veya toplamı yanlış girilmişse bunu kullanıcıya bildirir.Eğer sayılar doğru girilmişse sonda vereceği sonda vereceği cıktıta soru sayısını,doğru sayısını,yanlış sayısını,neti ve öğrencinin durumunu kullanıcıya bildirir.
